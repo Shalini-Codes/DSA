@@ -16,9 +16,18 @@ Solving DSA question on Leetcode daily
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
