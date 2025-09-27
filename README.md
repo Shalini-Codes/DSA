@@ -15,12 +15,14 @@ Solving DSA question on Leetcode daily
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Shalini-Codes/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
@@ -50,6 +52,7 @@ Solving DSA question on Leetcode daily
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +63,11 @@ Solving DSA question on Leetcode daily
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
