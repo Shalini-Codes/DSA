@@ -12,6 +12,7 @@ Solving DSA question on Leetcode daily
 | [0151-reverse-words-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Shalini-Codes/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
+| [1508-longest-happy-prefix](https://github.com/Shalini-Codes/DSA/tree/master/1508-longest-happy-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -73,4 +74,16 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Shalini-Codes/DSA/tree/master/1508-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Shalini-Codes/DSA/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Shalini-Codes/DSA/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
