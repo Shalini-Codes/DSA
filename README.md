@@ -6,6 +6,7 @@ Solving DSA question on Leetcode daily
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shalini-Codes/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Shalini-Codes/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
@@ -45,6 +46,7 @@ Solving DSA question on Leetcode daily
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shalini-Codes/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Shalini-Codes/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
@@ -53,6 +55,7 @@ Solving DSA question on Leetcode daily
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shalini-Codes/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 ## Array
