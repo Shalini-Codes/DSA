@@ -38,6 +38,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Design
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Solving DSA question on Leetcode daily
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
+| [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +108,16 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shalini-Codes/DSA/tree/master/0040-combination-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
