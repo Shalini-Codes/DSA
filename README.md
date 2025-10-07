@@ -131,14 +131,17 @@ Solving DSA question on Leetcode daily
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -152,4 +155,8 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
