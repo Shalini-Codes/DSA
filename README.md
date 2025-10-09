@@ -51,6 +51,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shalini-Codes/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Shalini-Codes/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
@@ -65,6 +66,7 @@ Solving DSA question on Leetcode daily
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Shalini-Codes/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shalini-Codes/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
@@ -111,6 +113,7 @@ Solving DSA question on Leetcode daily
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Shalini-Codes/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
@@ -125,6 +128,7 @@ Solving DSA question on Leetcode daily
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
