@@ -80,6 +80,7 @@ Solving DSA question on Leetcode daily
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
 ## Rolling Hash
 |  |
 | ------- |
