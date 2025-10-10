@@ -167,4 +167,9 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
