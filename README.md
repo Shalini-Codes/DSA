@@ -21,6 +21,7 @@ Solving DSA question on Leetcode daily
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Shalini-Codes/DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -74,6 +75,7 @@ Solving DSA question on Leetcode daily
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
+| [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
@@ -86,6 +88,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Monotonic Stack
 |  |
@@ -174,4 +177,8 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
