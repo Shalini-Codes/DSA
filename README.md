@@ -83,6 +83,7 @@ Solving DSA question on Leetcode daily
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +195,7 @@ Solving DSA question on Leetcode daily
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 ## Union Find
 |  |
