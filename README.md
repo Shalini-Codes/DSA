@@ -183,6 +183,7 @@ Solving DSA question on Leetcode daily
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shalini-Codes/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shalini-Codes/DSA/tree/master/0138-copy-list-with-random-pointer) |
@@ -195,6 +196,7 @@ Solving DSA question on Leetcode daily
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shalini-Codes/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0234-palindrome-linked-list) |
@@ -219,4 +221,8 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shalini-Codes/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
