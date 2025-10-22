@@ -49,6 +49,7 @@ Solving DSA question on Leetcode daily
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shalini-Codes/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -66,6 +67,7 @@ Solving DSA question on Leetcode daily
 | [0138-copy-list-with-random-pointer](https://github.com/Shalini-Codes/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shalini-Codes/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Shalini-Codes/DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -192,6 +194,7 @@ Solving DSA question on Leetcode daily
 | [0138-copy-list-with-random-pointer](https://github.com/Shalini-Codes/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shalini-Codes/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Shalini-Codes/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -225,6 +228,7 @@ Solving DSA question on Leetcode daily
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shalini-Codes/DSA/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
