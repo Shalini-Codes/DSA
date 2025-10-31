@@ -35,6 +35,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Shalini-Codes/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -101,6 +102,7 @@ Solving DSA question on Leetcode daily
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Shalini-Codes/DSA/tree/master/0134-gas-station) |
@@ -127,6 +129,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
