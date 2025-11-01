@@ -38,6 +38,7 @@ Solving DSA question on Leetcode daily
 | [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shalini-Codes/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalini-Codes/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -167,6 +168,7 @@ Solving DSA question on Leetcode daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -255,12 +257,14 @@ Solving DSA question on Leetcode daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Doubly-Linked List
 |  |
 | ------- |
