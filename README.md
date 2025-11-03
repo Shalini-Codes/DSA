@@ -30,6 +30,7 @@ Solving DSA question on Leetcode daily
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shalini-Codes/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Solving DSA question on Leetcode daily
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shalini-Codes/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Design
 |  |
@@ -119,6 +121,7 @@ Solving DSA question on Leetcode daily
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Shalini-Codes/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
 ## Sorting
