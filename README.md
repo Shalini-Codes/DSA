@@ -145,6 +145,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
 ## Rolling Hash
@@ -316,6 +317,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shalini-Codes/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Shalini-Codes/DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -332,4 +334,8 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shalini-Codes/DSA/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
