@@ -152,6 +152,7 @@ Solving DSA question on Leetcode daily
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Shalini-Codes/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shalini-Codes/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
 ## Rolling Hash
@@ -184,6 +185,7 @@ Solving DSA question on Leetcode daily
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shalini-Codes/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shalini-Codes/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -305,6 +307,7 @@ Solving DSA question on Leetcode daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shalini-Codes/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shalini-Codes/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -329,6 +332,7 @@ Solving DSA question on Leetcode daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shalini-Codes/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shalini-Codes/DSA/tree/master/0199-binary-tree-right-side-view) |
