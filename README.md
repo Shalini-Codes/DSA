@@ -49,6 +49,7 @@ Solving DSA question on Leetcode daily
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -126,6 +127,7 @@ Solving DSA question on Leetcode daily
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -147,6 +149,7 @@ Solving DSA question on Leetcode daily
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -340,6 +343,7 @@ Solving DSA question on Leetcode daily
 | [0662-maximum-width-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shalini-Codes/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -373,6 +377,7 @@ Solving DSA question on Leetcode daily
 | [0662-maximum-width-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shalini-Codes/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
@@ -401,6 +406,7 @@ Solving DSA question on Leetcode daily
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shalini-Codes/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Graph
