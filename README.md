@@ -97,6 +97,7 @@ Solving DSA question on Leetcode daily
 | [0141-linked-list-cycle](https://github.com/Shalini-Codes/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Shalini-Codes/DSA/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
@@ -125,6 +126,7 @@ Solving DSA question on Leetcode daily
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Shalini-Codes/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shalini-Codes/DSA/tree/master/0503-next-greater-element-ii) |
@@ -143,6 +145,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Monotonic Stack
@@ -257,11 +260,13 @@ Solving DSA question on Leetcode daily
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -272,6 +277,7 @@ Solving DSA question on Leetcode daily
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -280,6 +286,7 @@ Solving DSA question on Leetcode daily
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 ## Linked List
@@ -447,4 +454,8 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shalini-Codes/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
