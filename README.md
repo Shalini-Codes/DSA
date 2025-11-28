@@ -27,6 +27,7 @@ Solving DSA question on Leetcode daily
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Shalini-Codes/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
@@ -71,6 +72,7 @@ Solving DSA question on Leetcode daily
 | [0173-binary-search-tree-iterator](https://github.com/Shalini-Codes/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalini-Codes/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -146,6 +148,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
@@ -269,6 +272,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -454,6 +458,7 @@ Solving DSA question on Leetcode daily
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
