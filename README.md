@@ -11,6 +11,7 @@ Solving DSA question on Leetcode daily
 | [0020-valid-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -96,6 +97,7 @@ Solving DSA question on Leetcode daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shalini-Codes/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shalini-Codes/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Shalini-Codes/DSA/tree/master/0146-lru-cache) |
@@ -129,6 +131,7 @@ Solving DSA question on Leetcode daily
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Shalini-Codes/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -173,6 +176,7 @@ Solving DSA question on Leetcode daily
 | [0062-unique-paths](https://github.com/Shalini-Codes/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shalini-Codes/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
@@ -454,6 +458,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -474,5 +479,6 @@ Solving DSA question on Leetcode daily
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
