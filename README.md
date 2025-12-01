@@ -227,6 +227,7 @@ Solving DSA question on Leetcode daily
 | [0543-diameter-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shalini-Codes/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -248,6 +249,7 @@ Solving DSA question on Leetcode daily
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shalini-Codes/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
@@ -345,6 +347,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 ## Tree
 |  |
 | ------- |
@@ -454,6 +457,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shalini-Codes/DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
