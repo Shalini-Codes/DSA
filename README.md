@@ -144,6 +144,7 @@ Solving DSA question on Leetcode daily
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -234,6 +235,7 @@ Solving DSA question on Leetcode daily
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shalini-Codes/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -255,6 +257,7 @@ Solving DSA question on Leetcode daily
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -265,6 +268,7 @@ Solving DSA question on Leetcode daily
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -348,6 +352,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
 | ------- |
