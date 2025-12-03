@@ -145,6 +145,7 @@ Solving DSA question on Leetcode daily
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -355,6 +356,7 @@ Solving DSA question on Leetcode daily
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Tree
 |  |
 | ------- |
@@ -466,6 +468,7 @@ Solving DSA question on Leetcode daily
 | [0207-course-schedule](https://github.com/Shalini-Codes/DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Shalini-Codes/DSA/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -498,4 +501,8 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
