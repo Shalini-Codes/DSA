@@ -236,6 +236,7 @@ Solving DSA question on Leetcode daily
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shalini-Codes/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -259,6 +260,7 @@ Solving DSA question on Leetcode daily
 | [0662-maximum-width-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -359,6 +361,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Tree
@@ -472,6 +475,7 @@ Solving DSA question on Leetcode daily
 | [0207-course-schedule](https://github.com/Shalini-Codes/DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Shalini-Codes/DSA/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shalini-Codes/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
