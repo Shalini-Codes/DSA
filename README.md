@@ -133,6 +133,7 @@ Solving DSA question on Leetcode daily
 | [0134-gas-station](https://github.com/Shalini-Codes/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -223,6 +224,7 @@ Solving DSA question on Leetcode daily
 | [0144-binary-tree-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shalini-Codes/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shalini-Codes/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shalini-Codes/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -253,6 +255,7 @@ Solving DSA question on Leetcode daily
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shalini-Codes/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Shalini-Codes/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shalini-Codes/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Shalini-Codes/DSA/tree/master/0310-minimum-height-trees) |
@@ -273,6 +276,7 @@ Solving DSA question on Leetcode daily
 | [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shalini-Codes/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
@@ -360,6 +364,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
