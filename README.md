@@ -144,6 +144,7 @@ Solving DSA question on Leetcode daily
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shalini-Codes/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0948-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shalini-Codes/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -265,6 +266,7 @@ Solving DSA question on Leetcode daily
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -279,6 +281,7 @@ Solving DSA question on Leetcode daily
 | [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
