@@ -9,6 +9,7 @@ Solving DSA question on Leetcode daily
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shalini-Codes/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Shalini-Codes/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
@@ -179,6 +180,7 @@ Solving DSA question on Leetcode daily
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Shalini-Codes/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
@@ -205,6 +207,7 @@ Solving DSA question on Leetcode daily
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Shalini-Codes/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
