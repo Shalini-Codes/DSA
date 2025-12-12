@@ -107,6 +107,7 @@ Solving DSA question on Leetcode daily
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shalini-Codes/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-Codes/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shalini-Codes/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 ## Sliding Window
 |  |
@@ -248,6 +249,7 @@ Solving DSA question on Leetcode daily
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shalini-Codes/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-Codes/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shalini-Codes/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shalini-Codes/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -379,6 +381,7 @@ Solving DSA question on Leetcode daily
 | [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-Codes/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Tree
@@ -497,6 +500,7 @@ Solving DSA question on Leetcode daily
 | [0310-minimum-height-trees](https://github.com/Shalini-Codes/DSA/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Shalini-Codes/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Shalini-Codes/DSA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-Codes/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shalini-Codes/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
