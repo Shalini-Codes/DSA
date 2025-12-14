@@ -155,6 +155,7 @@ Solving DSA question on Leetcode daily
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shalini-Codes/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shalini-Codes/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shalini-Codes/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
