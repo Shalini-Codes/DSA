@@ -110,6 +110,7 @@ Solving DSA question on Leetcode daily
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shalini-Codes/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shalini-Codes/DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shalini-Codes/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Solving DSA question on Leetcode daily
 | [2227-sum-of-subarray-ranges](https://github.com/Shalini-Codes/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shalini-Codes/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shalini-Codes/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3460-count-the-number-of-inversions](https://github.com/Shalini-Codes/DSA/tree/master/3460-count-the-number-of-inversions) |
 ## Sorting
 |  |
@@ -299,6 +301,7 @@ Solving DSA question on Leetcode daily
 | [1036-rotting-oranges](https://github.com/Shalini-Codes/DSA/tree/master/1036-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shalini-Codes/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/Shalini-Codes/DSA/tree/master/2662-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shalini-Codes/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Solving DSA question on Leetcode daily
 | [0048-rotate-image](https://github.com/Shalini-Codes/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Shalini-Codes/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shalini-Codes/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
