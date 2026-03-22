@@ -139,6 +139,7 @@ Solving DSA question on Leetcode daily
 | [0128-longest-consecutive-sequence](https://github.com/Shalini-Codes/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Shalini-Codes/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Shalini-Codes/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shalini-Codes/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Shalini-Codes/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shalini-Codes/DSA/tree/master/0169-majority-element) |
@@ -309,6 +310,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Shalini-Codes/DSA/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shalini-Codes/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
