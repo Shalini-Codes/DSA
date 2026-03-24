@@ -23,6 +23,7 @@ Solving DSA question on Leetcode daily
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shalini-Codes/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shalini-Codes/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@ Solving DSA question on Leetcode daily
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shalini-Codes/DSA/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Shalini-Codes/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shalini-Codes/DSA/tree/master/0041-first-missing-positive) |
@@ -390,6 +392,7 @@ Solving DSA question on Leetcode daily
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shalini-Codes/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Shalini-Codes/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Shalini-Codes/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
