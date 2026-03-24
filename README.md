@@ -129,6 +129,7 @@ Solving DSA question on Leetcode daily
 | [0048-rotate-image](https://github.com/Shalini-Codes/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Shalini-Codes/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
@@ -197,6 +198,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shalini-Codes/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shalini-Codes/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shalini-Codes/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shalini-Codes/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shalini-Codes/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -320,6 +322,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Shalini-Codes/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shalini-Codes/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
