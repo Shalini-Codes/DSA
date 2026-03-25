@@ -26,6 +26,7 @@ Solving DSA question on Leetcode daily
 | [0011-container-with-most-water](https://github.com/Shalini-Codes/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shalini-Codes/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Shalini-Codes/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shalini-Codes/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -133,6 +134,7 @@ Solving DSA question on Leetcode daily
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shalini-Codes/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Shalini-Codes/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
@@ -177,6 +179,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shalini-Codes/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shalini-Codes/DSA/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
