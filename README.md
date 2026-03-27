@@ -25,6 +25,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalini-Codes/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shalini-Codes/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Shalini-Codes/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Shalini-Codes/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shalini-Codes/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shalini-Codes/DSA/tree/master/0075-sort-colors) |
@@ -127,6 +128,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shalini-Codes/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shalini-Codes/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Shalini-Codes/DSA/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Shalini-Codes/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shalini-Codes/DSA/tree/master/0041-first-missing-positive) |
@@ -181,6 +183,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shalini-Codes/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Shalini-Codes/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shalini-Codes/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
