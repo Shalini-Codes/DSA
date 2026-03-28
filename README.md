@@ -138,6 +138,7 @@ Solving DSA question on Leetcode daily
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shalini-Codes/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shalini-Codes/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shalini-Codes/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Shalini-Codes/DSA/tree/master/0088-merge-sorted-array) |
@@ -313,6 +314,7 @@ Solving DSA question on Leetcode daily
 | [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shalini-Codes/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Shalini-Codes/DSA/tree/master/0733-flood-fill) |
@@ -511,6 +513,7 @@ Solving DSA question on Leetcode daily
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
