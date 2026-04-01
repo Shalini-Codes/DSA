@@ -158,6 +158,7 @@ Solving DSA question on Leetcode daily
 | [0162-find-peak-element](https://github.com/Shalini-Codes/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shalini-Codes/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Shalini-Codes/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -512,6 +513,7 @@ Solving DSA question on Leetcode daily
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shalini-Codes/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shalini-Codes/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1985-maximum-subarray-min-product](https://github.com/Shalini-Codes/DSA/tree/master/1985-maximum-subarray-min-product) |
 ## Binary Search Tree
