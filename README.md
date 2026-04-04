@@ -35,6 +35,7 @@ Solving DSA question on Leetcode daily
 | [0142-linked-list-cycle-ii](https://github.com/Shalini-Codes/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Shalini-Codes/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shalini-Codes/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Shalini-Codes/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Shalini-Codes/DSA/tree/master/0455-assign-cookies) |
@@ -160,6 +161,7 @@ Solving DSA question on Leetcode daily
 | [0169-majority-element](https://github.com/Shalini-Codes/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Shalini-Codes/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Shalini-Codes/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -335,6 +337,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0090-subsets-ii](https://github.com/Shalini-Codes/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shalini-Codes/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shalini-Codes/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shalini-Codes/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Shalini-Codes/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shalini-Codes/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -530,6 +533,7 @@ Solving DSA question on Leetcode daily
 | [0173-binary-search-tree-iterator](https://github.com/Shalini-Codes/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shalini-Codes/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shalini-Codes/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Shalini-Codes/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Shalini-Codes/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shalini-Codes/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
