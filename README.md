@@ -69,6 +69,7 @@ Solving DSA question on Leetcode daily
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Shalini-Codes/DSA/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shalini-Codes/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -142,6 +143,7 @@ Solving DSA question on Leetcode daily
 | [0049-group-anagrams](https://github.com/Shalini-Codes/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shalini-Codes/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shalini-Codes/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shalini-Codes/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -326,6 +328,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shalini-Codes/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shalini-Codes/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shalini-Codes/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shalini-Codes/DSA/tree/master/0079-word-search) |
