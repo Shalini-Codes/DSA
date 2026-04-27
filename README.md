@@ -92,6 +92,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shalini-Codes/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shalini-Codes/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Shalini-Codes/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shalini-Codes/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Shalini-Codes/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -126,6 +127,7 @@ Solving DSA question on Leetcode daily
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shalini-Codes/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shalini-Codes/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Shalini-Codes/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Shalini-Codes/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shalini-Codes/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
@@ -165,6 +167,7 @@ Solving DSA question on Leetcode daily
 | [0169-majority-element](https://github.com/Shalini-Codes/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shalini-Codes/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Shalini-Codes/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Shalini-Codes/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shalini-Codes/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shalini-Codes/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -367,6 +370,7 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shalini-Codes/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Shalini-Codes/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Shalini-Codes/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shalini-Codes/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shalini-Codes/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -606,4 +610,8 @@ Solving DSA question on Leetcode daily
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shalini-Codes/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shalini-Codes/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
